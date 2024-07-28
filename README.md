@@ -41,4 +41,3 @@
 2. Bảo mật lưu trữ dữ liệu (ví dụ: mã hóa đĩa cứng).
 3. Bảo mật thông tin cá nhân (ví dụ: mã hóa dữ liệu trên các thiết bị di động).
 
-* Data nó nằm ở đâu đó trong twitter của tôi.
