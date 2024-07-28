@@ -3,7 +3,7 @@ from Crypto.Util.Padding import unpad
 
 def decrypt_aes_cbc(ciphertext, key):
     # Tách IV ra từ bản mã
-    iv = ciphertext[:16] # 4b4353434b4353434b4353434b435343
+    iv = ciphertext[:16] # 
     ciphertext = ciphertext[16:]
     
     # Tạo đối tượng AES
