@@ -14,7 +14,7 @@ def encrypt_aes_cbc(plaintext, key):
     return iv + ciphertext
 
 # Ví dụ sử dụng
-key = get_random_bytes(16)  # 48347070595f42495274685f44615959
+key = get_random_bytes(16)  #
 plaintext = "Đây là một thông điệp bí mật"
 ciphertext = encrypt_aes_cbc(plaintext, key)
 print(ciphertext)
