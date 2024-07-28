@@ -41,5 +41,3 @@
 2. Bảo mật lưu trữ dữ liệu (ví dụ: mã hóa đĩa cứng).
 3. Bảo mật thông tin cá nhân (ví dụ: mã hóa dữ liệu trên các thiết bị di động).
 
-# 7. Kết Luận
-+ AES là một chuẩn mã hóa mạnh mẽ và linh hoạt, được sử dụng rộng rãi trong nhiều ứng dụng để bảo vệ dữ liệu. Với tính năng bảo mật cao và hiệu suất tốt, AES đã trở thành một trong những công cụ quan trọng nhất trong lĩnh vực bảo mật thông tin.
